@@ -1,4 +1,4 @@
-# ToFuNFT Price Scraper
+# tofuNFT Price Scraper
 
 This project is a price scraper for Non-Fungible Tokens (NFTs). It is written in TypeScript and uses Puppeteer for web scraping.
 
