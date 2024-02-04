@@ -33,7 +33,7 @@ npm run scrape --url=<URL>
 
 The URL should be the link to the collection on the NFT marketplace. The URL should look like this: `https://tofunft.com/collection/{your_collection}/items`.
 
-Once the script is done running, it will output the prices of the NFTs in the collection in JSON format.
+Once the script is done running, it will output the prices of the NFTs in JSON format.
 
 ## Built With
 
